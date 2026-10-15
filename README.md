@@ -3,7 +3,7 @@
 A classical ML decision-support prototype for irrigation on a real 1,600-tree
 family orchard in Nashik, Maharashtra — built on a transparent synthetic
 simulation, driven by real weather, with the assumptions and limitations
-stated rather than hidden.
+stated rather than hidden. [Try it](https://jayesh-orchard-irrigation.streamlit.app/).
 
 ## What you're looking at
 
